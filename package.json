@@ -1,6 +1,6 @@
 {
-  "homepage": "./",
-  "name": "portfolio-template",
+  "homepage": "https://github.com/TchQueen/queen-portfolio.git",
+  "name": "queen-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
