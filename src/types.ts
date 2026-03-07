@@ -15,7 +15,11 @@ export enum Platform {
 export enum GameEngine {
   Unity = "Unity",
   Unreal = "Unreal",
+<<<<<<< HEAD
   RenPy = "RenPy",
+=======
+  Renpy = "Renpy",
+>>>>>>> origin/main
   DragonRuby = "DragonRuby",
 }
 

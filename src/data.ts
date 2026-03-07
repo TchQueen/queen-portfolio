@@ -47,10 +47,17 @@ export const games: Game[] = [
       { source: LinkImageSource.ItchIo, url: "https://maurmischief.itch.io/firefighters-vs-bugs" },
     ],
     media: [
+<<<<<<< HEAD
       { source: "/images/games/FIREFIGHTER VS BUGS/Firefighter_Screenshot_1.png", type: MediaType.Image },
       { source: "/images/games/FIREFIGHTER VS BUGS/Firefighter_Screenshot_2.gif", type: MediaType.Image },
       { source: "/images/games/FIREFIGHTER VS BUGS/Firefighter_Screenshot_3.png", type: MediaType.Image },
       { source: "/images/games/FIREFIGHTER VS BUGS/Firefighter_Screenshot_4.png", type: MediaType.Image },
+=======
+      { source: "/images/games/FIREFIGHTER_VS_BUGS/Firefighter_Screenshot_1.png", type: MediaType.Image },
+      { source: "/images/games/FIREFIGHTER_VS_BUGS/Firefighter_Screenshot_2.gif", type: MediaType.Image },
+      { source: "/images/games/FIREFIGHTER_VS_BUGS/Firefighter_Screenshot_3.png", type: MediaType.Image },
+      { source: "/images/games/FIREFIGHTER_VS_BUGS/Firefighter_Screenshot_4.png", type: MediaType.Image },
+>>>>>>> origin/main
     ],
   },
   {
