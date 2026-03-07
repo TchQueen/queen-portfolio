@@ -5,7 +5,8 @@ export enum LinkImageSource {
 
 export enum Platform {
   Windows = "Windows",
-  Mac = "Mac",
+  MacOs = "MacOs",
+  Web = "Web",
   Linux = "Linux",
   iOS = "iOS",
   Android = "Android",
@@ -14,6 +15,8 @@ export enum Platform {
 export enum GameEngine {
   Unity = "Unity",
   Unreal = "Unreal",
+  Renpy = "Renpy",
+  DragonRuby = "DragonRuby",
 }
 
 export enum MediaType {
